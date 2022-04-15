@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thisismeBluee a.k.a ```Aditya Singh```
-- 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning React
+- 👀 I’m full time React JS Developer
 - 📫 How to reach me ```iamaditya332@yahoo.com```
 
 <!---
